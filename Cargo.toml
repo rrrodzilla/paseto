@@ -1,0 +1,8 @@
+[workspace]
+members = [
+    "crates/rusty_paseto",
+    "crates/paserk",
+    "crates/paseto_common",
+]
+
+resolver = "2"
