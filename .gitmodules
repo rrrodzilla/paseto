@@ -1,0 +1,9 @@
+[submodule "crates/rusty_paseto"]
+	path = crates/rusty_paseto
+	url = git@github.com:rrrodzilla/rusty_paseto.git
+[submodule "crates/paserk"]
+	path = crates/paserk
+	url = git@github.com:rrrodzilla/paserk.git
+[submodule "crates/paseto_common"]
+	path = crates/paseto_common
+	url = git@github.com:rrrodzilla/paseto_common.git
